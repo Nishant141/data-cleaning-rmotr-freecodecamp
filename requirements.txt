@@ -3,3 +3,4 @@ seaborn==0.8.1
 numpy==1.14.0
 matplotlib==2.2.2
 ipython==6.2.1
+prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulnerability
